@@ -28,7 +28,7 @@ export default function Home() {
                     </span>
                   </Tippy>
             
-                </div>
+               </div>
                 <p className="text-white/50 text-md mt-3">
                 Merhaba, ben Baran. 18 yaşındayım ve İstanbul'da yaşıyorum. İstanbul Bahçelievler Teknik ve Meslek Lisesi'nden inşaat bölümü mezunuyum. Şu sıralar İstanbul Maket Model adlı bir firmada çalışıyorum. Benimle ilgili daha çok bilgi edinmek için lütfen iletişim bölümünden benimle iletişime geçebilirsiniz.
                 </p>
@@ -39,8 +39,7 @@ export default function Home() {
                   <Tippy content="Online" animation="shift-away" arrow={false}>
                     <i className={`fad fa-circle text-2xl text-online`} />
                   </Tippy>
-
-                </div>
+                 </div>
               </div>
               
             </div>
