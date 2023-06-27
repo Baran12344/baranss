@@ -20,7 +20,7 @@ export default function Home() {
               <div className="flex flex-col lg:justify-start justify-center items-center lg:items-start mt-5 lg:mt-0 w-full">
                 <div className="flex items-center">
                 <p className="flex items-center text-white text-4xl font-semibold">
-                  Baran Taban
+                  Baran TABAN
                 </p>
                   <Tippy content={`Online`} animation="shift-away" arrow={false}>
                     <span className={`ml-2 text-online px-2 py-1 font-normal rounded-md text-sm`}>
@@ -30,7 +30,7 @@ export default function Home() {
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
-                Merhaba ben baran, 18 yaşındayım 12. sınıf öğrencisiyim inşaat bölümündeyim. Boş zamanlarımın çoğunu discord sunucumuz ve DDoS music botumuzla ilgilenmekle geçiriyorum bana ceşitli iletişim adreslerimden ulaşabilirsiniz
+                Merhaba, ben Baran. 18 yaşındayım ve İstanbul'da yaşıyorum. İstanbul Bahçelievler Teknik ve Meslek Lisesi'nden inşaat bölümü mezunuyum. Şu sıralar İstanbul Maket Model adlı bir firmada çalışıyorum. Benimle ilgili daha çok bilgi edinmek için lütfen iletişim bölümünden benimle iletişime geçebilirsiniz.
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
