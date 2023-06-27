@@ -39,7 +39,9 @@ export default function Home() {
                   <Tippy content="Online" animation="shift-away" arrow={false}>
                     <i className={`fad fa-circle text-2xl text-online`} />
                   </Tippy>
+
                  </div>
+
               </div>
               
             </div>
