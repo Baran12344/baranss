@@ -39,14 +39,7 @@ export default function Home() {
                   <Tippy content="Online" animation="shift-away" arrow={false}>
                     <i className={`fad fa-circle text-2xl text-online`} />
                   </Tippy>
-                  <div>
-                    public class MerhabaDunya {
-    public static void main(String[] args) {
-        System.out.println("Merhaba, Dünya!");
-    }
-}
 
-                  </div>
                 </div>
               </div>
               
