@@ -10,7 +10,7 @@ module.exports = {
       'exclude': /node_modules/,
       'options': {
         'plugins': ['lodash'],
-        'presets': [['env', { 'modules': false, 'targets': { 'node': 18.x } }]]
+        'presets': [['env', { 'modules': false, 'targets': { 'node': 4 } }]]
       }
     }]
   },
